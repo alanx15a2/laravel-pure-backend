@@ -2,9 +2,9 @@
 
 namespace Alanx15a2\LaravelPureBackend\Tests;
 
+use Alanx15a2\LaravelPureBackend\LaravelPureBackendServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Alanx15a2\LaravelPureBackend\LaravelPureBackendServiceProvider;
 
 class TestCase extends Orchestra
 {
